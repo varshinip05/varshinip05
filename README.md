@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VarshiniPuttabakula&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <a href="https://github.com/VarshiniPuttabakula?tab=followers">
-    <img src="https://img.shields.io/github/followers/VarshiniPuttabakula?style=flat-square&color=blue" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=varshinip05&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <a href="https://github.com/varshinip05?tab=followers">
+    <img src="https://img.shields.io/github/followers/varshinip05?style=flat-square&color=blue" alt="GitHub followers" />
   </a>
 </p>
 
@@ -44,8 +44,8 @@ I enjoy transforming complex data and models into **clear, explainable, end-to-e
 
 ### 💳 Loan Default Prediction System
 <p>
-  <a href="https://github.com/VarshiniPuttabakula/Loan-Default-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarshiniPuttabakula&repo=Loan-Default-Prediction&theme=tokyonight" />
+  <a href="https://github.com/varshinip05/Loan-Default-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=varshinip05&repo=Loan-Default-Prediction&theme=tokyonight" />
   </a>
 </p>
 **Tech:** DNN, LSTM, Transformer, PyTorch  
@@ -55,8 +55,8 @@ I enjoy transforming complex data and models into **clear, explainable, end-to-e
 
 ### 🧠 AI Resume Analyzer
 <p>
-  <a href="https://github.com/VarshiniPuttabakula/AI-Resume-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarshiniPuttabakula&repo=AI-Resume-Analyzer&theme=tokyonight" />
+  <a href="https://github.com/varshinip05/AI-Resume-Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=varshinip05&repo=AI-Resume-Analyzer&theme=tokyonight" />
   </a>
 </p>
 **Tech:** NLP, ML, Python  
@@ -66,8 +66,8 @@ I enjoy transforming complex data and models into **clear, explainable, end-to-e
 
 ### 🏦 Java ATM Simulator
 <p>
-  <a href="https://github.com/VarshiniPuttabakula/ATM-Simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VarshiniPuttabakula&repo=ATM-Simulator&theme=tokyonight" />
+  <a href="https://github.com/varshinip05/ATM-Simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=varshinip05&repo=ATM-Simulator&theme=tokyonight" />
   </a>
 </p>
 **Tech:** Java, JavaFX, JDBC, MySQL  
@@ -78,12 +78,12 @@ I enjoy transforming complex data and models into **clear, explainable, end-to-e
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VarshiniPuttabakula&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshiniPuttabakula&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varshinip05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshinip05&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarshiniPuttabakula&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshinip05&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -100,7 +100,7 @@ I enjoy transforming complex data and models into **clear, explainable, end-to-e
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarshiniPuttabakula&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshinip05&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
